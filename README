@@ -1,0 +1,4 @@
+MBPL_DRIVERS_R44_ENG4-pcie-src
+The source code under src folder is provided by sierra wireless.
+clone this repo to packages folder in openwrt build system and select it
+under kernel package - wwan support to use this driver.
